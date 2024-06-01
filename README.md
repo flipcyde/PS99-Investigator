@@ -56,7 +56,8 @@ The Pet Simulator 99 Investigation Bot is a Discord bot designed to fetch and di
    - Once the data is fetched, it will display the user's clan participation and game pass ownership.
 
 ## Example
-![Example](![image](https://github.com/flipcyde/PS99-Investigator/assets/39178036/44dd1ca8-f33e-4728-89c5-7b0ecb85028f))
+![image](https://github.com/flipcyde/PS99-Investigator/assets/39178036/0e9e1060-4fd1-40cc-a6a3-62eb484fcd53)
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
